@@ -214,7 +214,7 @@ int main(){
     TEST(t){
         cout << "Hello" << endl;
         cout << "Welcome" << endl;
-        cout << "Sukham Singh" << endl;
+        cout << "Pratyush Mangal" << endl;
     }
     return 0;
 }
