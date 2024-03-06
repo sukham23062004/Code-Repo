@@ -213,6 +213,7 @@ int main(){
     fastIO;
     TEST(t){
         cout << "Hello" << endl;
+        cout << "Welcome" << endl;
     }
     return 0;
 }
